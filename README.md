@@ -1,4 +1,4 @@
-# TEAM Hackerz Prototype for TECHNOVATION hackathon
+# Python Project 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![opencv](https://img.shields.io/badge/opencv-377600?style=for-the-badge&logo=opencv&logoColor=white)
 
